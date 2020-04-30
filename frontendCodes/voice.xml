@@ -1,0 +1,5 @@
+<Response>
+<Say voice="woman" language="en-IN" >Radhaaaa Krishna Please leave a voice msg after the beep </Say>
+<Record timeout="1" transcribe="false" playBeep="true" recordingStatusCallback="http://ola.lconnectt.in/filesrec" action="http://ola.lconnectt.in/end.xml" method="POST" />
+<Say voice="woman" language="en-IN" >Thank you</Say>
+</Response>
